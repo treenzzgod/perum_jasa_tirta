@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:perum_jasa_tirta/pages/login.dart';
+import 'package:perum_jasa_tirta/pages/Register.dart';
 import 'package:hexcolor/hexcolor.dart';
 
 class SplashScreen2 extends StatefulWidget {
